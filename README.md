@@ -11,7 +11,7 @@
 
 # Header.
 
-![](./crypto.png)
+![](./others/crypto.png)
 
 -------------
 
